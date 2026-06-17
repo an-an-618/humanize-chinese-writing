@@ -1,0 +1,7 @@
+interface:
+  display_name: "去AI味写作"
+  short_description: "审改中文写作文风标点句式并压低机器生成痕迹适合论文报告润色"
+  default_prompt: "Use $qu-ai-wei-xiezuo to review and polish this Chinese text so it reads more natural and less formulaic."
+
+policy:
+  allow_implicit_invocation: true
