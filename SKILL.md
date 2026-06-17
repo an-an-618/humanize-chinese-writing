@@ -1,5 +1,5 @@
 ---
-name: qu-ai-wei-xiezuo
+name: humanize-chinese-writing
 description: Use when writing, revising, or reviewing Chinese prose that should sound natural, human, plain, and non-formulaic. Apply to Chinese academic papers, literature essays, reports, summaries, polished prose, and any user request mentioning 去ＡＩ味, 文风, 句式, 标点, 破折号, 冒号, 分号, 中英夹杂, 文献综述, or 论文润色.
 ---
 
